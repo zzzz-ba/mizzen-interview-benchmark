@@ -2,6 +2,8 @@
 
 [打开访谈案例审阅页](https://zzzz-ba.github.io/mizzen-interview-benchmark/) · [随机 30 场访谈](https://zzzz-ba.github.io/mizzen-interview-benchmark/random-interviews-30.html)
 
+[打开 11 维典型 Bad Case 审阅页](https://zzzz-ba.github.io/mizzen-interview-benchmark/selected-11dims/)：依据用户选例手册保留 4 个常驻指标、7 个情境激活指标，每维 8 例，共 88 个 Bad Case，来自 70 场不同访谈。页面包含 601 段引用、完整访谈与 62 份历史大纲，并支持搜索、独立审阅备注和导出。全部内置数据沿用公开版的联系方式遮盖规则。该精选页的分组独立于首页的 15 维全量案例库。
+
 [打开 17 维参考网页](https://zzzz-ba.github.io/mizzen-interview-benchmark/reference-17dims/)：保留 `G17-DEFINITION-MATCH-2026-11-05` 版本，每维 3 Good、3 Bad，共 102 个展示案例，另有 32 个补充案例。可核对原文、完整访谈及大纲；审核状态和备注保存在各自浏览器，不跨设备或同事自动同步。
 
 首页展示 2026 年 11 月 6 日修订的 15 个评测维度，默认查看定额采样的最终评测集。页面可切换到比例采样或完整案例库。访谈按全部消息、研究目标和历史大纲精确去重，同一访谈中的相同目标主持发言计为一个案例。
